@@ -40,11 +40,11 @@ Body Example Request :
 ### http://yourhost/api/calculate-pregnancy-conception
 
 Example request for the above : 
-{
-  "firstDayOfLastPeriod": "2023-06-18" ,
-  "cycleLength" : 28
 
-}
+  {"firstDayOfLastPeriod": "2023-06-18" ,
+  "cycleLength" : 28}
+
+
 
 ## Pregnancy Weight Gain
 ### http://yourhost/api/calculate-pregnancy-weight-gain
