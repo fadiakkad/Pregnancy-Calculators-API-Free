@@ -25,7 +25,7 @@ To use Pregnancy Calculators APIs Free, simply send a POST request to the follow
 ### example request in Body JSON request :   {"firstDayOfLastPeriod": "2023-06-18" ,"cycleLength" : 28}
 
 ### pregnancy : 
-http://yourhost/api/calculate-pregnancy
+yourhost/api/calculate-pregnancy
 
 ### Due date
 yourhost/api/calculate-due-date
