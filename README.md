@@ -28,19 +28,19 @@ To use Pregnancy Calculators APIs Free, simply send a POST request to the follow
 http://yourhost/api/calculate-pregnancy
 
 ### Due date
-http://yourhost/api/calculate-due-date
+yourhost/api/calculate-due-date
 
 ### Ovulation
-http://yourhost/api/calculate-ovulation
+yourhost/api/calculate-ovulation
 
 #### Conception
-http://yourhost/api/calculate-conception
+yourhost/api/calculate-conception
 
 ### Pregnancy Conception
-http://yourhost/api/calculate-pregnancy-conception
+yourhost/api/calculate-pregnancy-conception
 
 ### Pregnancy Weight Gain
-http://yourhost/api/calculate-pregnancy-weight-gain
+yourhost/api/calculate-pregnancy-weight-gain
 example
 {
   "week": 20 ,
