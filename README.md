@@ -20,7 +20,9 @@ This calculator calculates the conception date based on the menstrual cycle date
 
 # Usage
 
-To use Pregnancy Calculators APIs Free, simply send a POST request to the following  4 endpoints and add Raw body json request:
+To use Pregnancy Calculators APIs Free, simply send a POST request to the following  4 endpoints :
+
+### example request in Body JSON request :   {"firstDayOfLastPeriod": "2023-06-18" ,"cycleLength" : 28}
 
 ## pregnancy : 
 ### http://yourhost/api/calculate-pregnancy
@@ -39,16 +41,11 @@ Body Example Request :
 ## Pregnancy Conception
 ### http://yourhost/api/calculate-pregnancy-conception
 
-Example request for the above : 
-
-  {"firstDayOfLastPeriod": "2023-06-18" ,
-  "cycleLength" : 28}
-
 
 
 ## Pregnancy Weight Gain
 ### http://yourhost/api/calculate-pregnancy-weight-gain
-
+example
 {
   "week": 20 ,
   "height" : 165,
