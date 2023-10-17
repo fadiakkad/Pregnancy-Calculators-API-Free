@@ -2,6 +2,7 @@
 
 
 Welcome to the Pregnancy Calculators API Free project, an uncomplicated and open-source API that grants you free access to a range of pregnancy-related calculators. These tools can be leveraged to develop your web/mobile applications and more.
+These APIs have been implemented also in this website: https://do-calculate.com/en
 
 ## Pregnancy Calculator
 This calculator calculates the due date of pregnancy and estimates the current week of pregnancy.
